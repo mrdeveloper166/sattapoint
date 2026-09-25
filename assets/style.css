@@ -1,0 +1,421 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    color: #f5f5f5;
+}
+
+.navbar{
+    background-color:#4CAF50;
+    border-color: #4CAF50;
+	
+	
+	
+}
+
+.nav.nav-tabs>li>a{
+	font-size: 17px;
+	line-height: 33px;
+}
+
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    color: #000000; 
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    font-size: 18px; 
+}
+
+
+
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    line-height: 34px; 
+}
+
+.navbar-inverse{
+border-radius:none;	
+	
+	
+}
+
+
+
+
+.textarea1{
+	
+	
+	background-repeat: no-repeat;
+	
+	padding-top: 30px;
+	font-size: 17px;
+	box-shadow: 3px 3px 3px 3px #DBDBDB;
+	border: 2px solid #1E9810;
+	border-radius: 5px;
+	font-weight: bold;
+	
+}
+.textarea1:focus {
+  
+	background-image:none;
+}
+
+
+.textarea2:focus {
+  
+	background-image:none;
+}
+
+
+.textarea2{
+	
+	
+	background-repeat: no-repeat;
+	font-size: 17px;
+	box-shadow: 3px 3px 3px 3px #DBDBDB;
+	border: 2px solid #1E9810;
+	border-radius: 5px;
+	font-weight: bold;
+	padding-top: 30px;
+	
+	
+}
+
+
+
+.t1{
+	
+background-image: url("../e to h.PNG");	
+	
+}
+
+
+.t2{
+background-image: url("../hh.PNG");	
+	
+}
+
+
+
+.t3{
+	
+background-image: url("../hindi.PNG");	
+	
+}
+
+.t4{
+	
+	background-image: url("../english.PNG");
+}
+
+
+.t5{
+	
+background-image: url("../e to h.PNG");
+	
+}
+
+
+.t6{
+	
+	background-image: url("../marathi.PNG");
+	
+}
+
+.t7{
+background-image: url("../type-in-marathi.PNG");
+}
+
+.t8{
+	background-image: url("../getinenglish.PNG");
+}
+
+.t9{
+	background-image: url("../getinhindi.PNG");
+}
+
+.t10{
+	
+	background-image: url("../tamil.PNG");
+}
+.t11{
+	background-image: url("../typeintamil.PNG");
+}
+.t12{
+	background-image: url("../getinenglish.PNG");
+}
+
+.t13{
+	background-image: url("../typeintamil.PNG");
+}
+
+.t14{
+	background-image: url("../getinhindi.PNG");
+}
+
+.t15{
+	
+	background-image: url("../e to h.PNG");
+}
+.t16{
+	background-image: url("../getingujrati.PNG");
+}
+
+.t17{
+	
+	background-image: url("../typeingujrati.PNG");
+}
+
+.t18{
+	background-image: url("../getinenglish.PNG");
+}
+
+.t19{
+	
+	background-image: url("../getinhindi.PNG");
+}
+
+.t20{
+	background-image: url("../e to h.PNG");
+}
+.t21{
+	background-image: url("../getintelugu.PNG");
+}
+.t22{
+	background-image: url("../typeintelugu.PNG");
+}
+
+.t23{
+	background-image: url("../getinenglish.PNG");
+}
+.t24{
+	background-image: url("../typeintelugu.PNG");
+}
+.t25{
+	background-image: url("../getinhindi.PNG");
+}
+.t26{
+	background-image: url("../e to h.PNG");
+}
+.t27{
+	background-image: url("../getinpunjabi.PNG");
+}
+
+.t28{
+	background-image: url("../typeinpunjbai.PNG");
+}
+
+.t29{
+	background-image: url("../getinenglish.PNG");
+}
+.t30{
+	background-image: url("../typeinpunjbai.PNG");
+	}
+.t31{
+	background-image: url("../getinhindi.PNG");
+}
+.t32{
+	background-image: url("../typeinmalayalam.PNG");
+}
+.t33{
+	background-image:url("../getinenglish.PNG");
+}
+
+.t34{
+	background-image: url("../e to h.PNG");
+}
+.t35{
+	background-image: url("../getinmalayalam.PNG");
+}
+
+.t36{
+	background-image: url("../typeinmalayalam.PNG");
+}
+.t37{
+	background-image: url("../getinhindi.PNG");
+}
+.t38{
+	background-image: url("../e to h.PNG");
+	
+}
+.t39{
+	background-image: url("../getinkannada.PNG");
+}
+
+.t40{
+	background-image: url("../typeinkannada.PNG");
+}
+.t41{
+	background-image: url("../getinenglish.PNG");
+}
+.t42{
+	background-image: url("../typeinkannada.PNG");
+}
+.t43{
+	background-image: url("../getinhindi.PNG");
+}
+
+.t44{
+	background-image: url("../e to h.PNG");
+}
+
+.t45{
+	background-image: url("../getinbangali.PNG");
+}
+
+.t46{
+	background-image: url("../typeinbengali.PNG");
+}
+.t47{
+	background-image: url("../e to h.PNG");
+}
+.t48{
+	background-image: url("../e to h.PNG");
+}
+
+.t49{
+	background-image: url("../getinurdu.PNG");
+	
+}
+.t50{
+	background-image: url("../typeinurdu.PNG");
+}
+.t51{
+	background-image: url("../getinenglish.PNG");
+}
+.t52{
+	background-image: url("../typeinenglish.PNG");
+}
+
+.t53{
+	
+	background-image: url("../getinspanish.PNG");
+}
+.tstbutton{
+	 width: 202px; height: 40px;  color:white; background-color:limegreen; font-size: 20px; border: solid limegreen; border-radius: 3px;
+	
+}
+
+.tstbuttoncopy{
+	 width: 160px; margin-top: -40px;  height: 35px; color:white; background-color:brown; font-size: 20px; border: solid brown; border-radius: 3px;
+	
+}
+
+
+
+
+
+@media (max-width: 870px) {
+  
+	.textarea2
+	{
+	
+		margin-top: 5px;
+		
+	}
+   
+}
+
+
+
+
+
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color:white;
+	font-size:14px;
+	
+}
+
+
+.navbar {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    	color:white;
+	background-color:#8BC34A;
+
+}
+
+
+.navbar-inverse .navbar-brand {
+    color:white;
+}
+
+
+
+.dropdown-menu>li{
+  min-width: 100px;
+  line-height:40px;
+  
+  
+}
+
+
+
+
+
+
+
+a:hover {
+	color: blue;
+	
+	text-decoration: none;
+	font-weight:bold;
+	
+	
+}
+
+
+.text{
+	
+font-family:comic "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+color:white;
+font-size:24px;
+
+text-align:center;	
+}
+
+hr.style1{
+	border-top: 1px solid #D8D8D8;
+}
+
+
+
+.header{
+	height:135px;
+	background-color: #028062;
+	
+		
+}
+
+
+.marq{
+	
+font-weight:bold;
+font-size:20px;
+color:#0814F3;
+	
+	
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #f5f5f5;}
+
+
+
+
+ul.a {list-style-type: square; }
+
+    .bor{border-bottom : 1px solid   #CFCCCC;   padding-bottom:10px; }
+	.bor:hover{background-color:#ECEBEB;}
+	
+	
